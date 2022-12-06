@@ -1,0 +1,15 @@
+# refer to https://wiki.grab.com/display/NEX/Service+YAML+Template+and+Field+Definitions for details on filling in Helix metadata manually
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: trial
+  description: "This is a trial desc"
+  labels:
+    trialLabel: label
+    
+  annotations:
+    trialAnnotations: annotation
+spec:
+  type: service
+  lifecycle: production
+  owner: chew-boon-zhan
