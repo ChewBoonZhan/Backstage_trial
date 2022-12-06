@@ -8,7 +8,7 @@ metadata:
     
   annotations:
     trialAnnotations: annotation
-    backstage.io/techdocs-ref: ./techdocs
+    backstage.io/techdocs-ref: dir:./techdocs
 spec:
   type: service
   lifecycle: production
