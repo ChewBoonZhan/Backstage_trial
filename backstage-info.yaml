@@ -1,4 +1,3 @@
-# refer to https://wiki.grab.com/display/NEX/Service+YAML+Template+and+Field+Definitions for details on filling in Helix metadata manually
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
