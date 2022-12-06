@@ -1,0 +1,4 @@
+site_name: "TrialSite"
+nav:
+  - "Home": index.md
+  
